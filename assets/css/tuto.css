@@ -1,0 +1,15 @@
+body {
+    padding-top: 10px;
+    color: white;
+  }
+  [class*="col-"]{
+    background-color: #007BFF;
+    border: 1px solid white;
+    border-radius: 1px;
+    /*line-height: 40px;*/
+    text-align: center;
+  }
+  [class*="red"]{
+    background-color: #DC3545;
+    
+  }
